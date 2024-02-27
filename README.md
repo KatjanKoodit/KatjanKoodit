@@ -1,4 +1,6 @@
-### Hi there 👋
+### Tervehdys!
+
+Täältä löytyy opintojeni aikana tehtyjä projekteja ja koodaustehtäviä. Profiili on vielä hyvin alussa, mutta sisältöä on tulossa lisää!
 
 <!--
 **KatjanKoodit/KatjanKoodit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
